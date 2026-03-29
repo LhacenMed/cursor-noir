@@ -1,15 +1,16 @@
 {
-  "name": "cursor-dark",
-  "displayName": "Cursor Dark",
+  "name": "cursor-noir",
+  "displayName": "Cursor Noir",
   "description": "Cursor Dark theme ported from Cursor IDE for VSCode.",
-  "version": "0.0.1",
-  "publisher": "LhacenMed",
+  "version": "0.0.2",
+  "publisher": "lhacenmed",
   "engines": {
     "vscode": ">=1.0.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/lhacenmed/cursor-dark"
@@ -22,5 +23,6 @@
         "path": "./themes/Cursor Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }

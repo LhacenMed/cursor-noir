@@ -1,4 +1,5 @@
-run:
+To regenrate the .vsix file, run:
 vsce package
 
-to regenrate the vsix file.
+To republish on open vsx marketplace, bump the version and run:
+ovsx publish cursor-noir-0.0.2.vsix -p ovsxat_5e47d3f2-3dd4-4c1f-8387-d3ed5daea550
