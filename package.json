@@ -20,7 +20,7 @@
       {
         "label": "Cursor Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cursor Dark-color-theme.json"
+        "path": "./themes/cursor-dark.json"
       }
     ]
   },
