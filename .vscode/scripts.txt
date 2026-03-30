@@ -1,0 +1,5 @@
+To regenerate the .vsix file, run:
+vsce package
+
+To republish on open vsx marketplace, bump the version and run:
+ovsx publish cursor-noir-0.0.2.vsix -p $env:OVSX_TOKEN
