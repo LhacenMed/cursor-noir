@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/LhacenMed/cursor-noir/compare/v1.0.2...v1.1.0) (2026-03-31)
+
+
+### Features
+
+* normalize activity bar background color format in theme JSON ([25156dc](https://github.com/LhacenMed/cursor-noir/commit/25156dce22c2e1033bc7e20d3da832f730882d56))
+
 ## [1.0.2](https://github.com/LhacenMed/cursor-noir/compare/v1.0.1...v1.0.2) (2026-03-31)
 
 
