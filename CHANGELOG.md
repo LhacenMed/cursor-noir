@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/LhacenMed/cursor-noir/compare/v1.0.0...v1.0.1) (2026-03-31)
+
+
+### Bug Fixes
+
+* update repository URL in package.json to point to cursor-noir ([7ca874e](https://github.com/LhacenMed/cursor-noir/commit/7ca874eaacddfab6a73956621fe783ea2579a243))
+
 ## 1.0.0 (2026-03-31)
 
 
