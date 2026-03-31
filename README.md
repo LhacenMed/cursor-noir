@@ -25,7 +25,7 @@ A dark VS Code theme ported from the [Cursor](https://cursor.sh/) IDE — faithf
 3. Click **Install**
 
 ### Manual (VSIX)
-1. Download the latest `.vsix` from the [Releases](https://github.com/lhacen-med/cursor-noir/releases) page
+1. Download the latest `.vsix` from the [Releases](https://github.com/lhacenmed/cursor-noir/releases) page
 2. Open Command Palette → `Extensions: Install from VSIX...`
 3. Select the downloaded file
 
@@ -74,7 +74,7 @@ A dark VS Code theme ported from the [Cursor](https://cursor.sh/) IDE — faithf
 
 ## Contributing
 
-Found a color that looks off? Open an [issue](https://github.com/lhacen-med/cursor-noir/issues) or submit a pull request.
+Found a color that looks off? Open an [issue](https://github.com/lhacenmed/cursor-noir/issues) or submit a pull request.
 
 1. Clone the repo
 2. Open the folder in VS Code / Antigravity
@@ -86,7 +86,7 @@ Found a color that looks off? Open an [issue](https://github.com/lhacen-med/curs
 
 ## License
 
-MIT © [Lhacen Med](https://github.com/lhacen-med)
+MIT © [Lhacen Med](https://github.com/lhacenmed)
 
 ---
 
