@@ -2,7 +2,7 @@
   "name": "cursor-noir",
   "displayName": "Cursor Noir",
   "description": "Cursor Dark theme ported from Cursor IDE for VSCode.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "lhacenmed",
   "engines": {
     "vscode": ">=1.0.0"
