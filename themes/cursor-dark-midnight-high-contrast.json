@@ -1,7 +1,7 @@
 {
   "name": "Cursor Dark Midnight High Contrast",
   "colors": {
-    "activityBar.background": "#0A0A0A",
+    "activityBar.background": "#0a0a0a",
     "activityBar.foreground": "#D8DEE9",
     "activityBarBadge.background": "#88C0D0",
     "activityBarBadge.foreground": "#000000",
